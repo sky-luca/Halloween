@@ -1,4 +1,4 @@
-### Halloween Map at Meeting Point - FiveM Ready
+# Halloween Map at Meeting Point - FiveM Ready
 
 **Product Description:**
 
@@ -12,11 +12,11 @@ This map has been carefully optimized to ensure smooth gameplay without sacrific
 
 ---
 
-### ReadMe - Installation Guide
+# ReadMe - Installation Guide
 
 **Halloween Map at Meeting Point** - FiveM Ready  
 Version: 1.0  
-Author: [Your Name]
+Author: Luca
 
 #### Installation Steps:
 
@@ -31,10 +31,10 @@ Author: [Your Name]
 5. **Save and close** the server.cfg file.
 6. **Restart** your server to apply the changes.
 
-#### Optional:
-- For a personalized touch, you can add custom Halloween sound effects or lighting changes.
+#### Preview:
+***SOON***
 
 #### Support:
-If you experience any issues with the installation or need further assistance, please contact us at [support email].
+If you experience any issues with the installation or need further assistance, please contact us at https://www.luca-info.com.
 
 Enjoy the haunted **Meeting Point** and Happy Halloween!
