@@ -10,7 +10,8 @@ Ghostly whispers and distant howls can be heard in the night air, adding to the 
 
 This map has been carefully optimized to ensure smooth gameplay without sacrificing detail, giving your players a fully immersive Halloween adventure. It's a plug-and-play solution—just drop it into your server and get ready for a thrilling, haunted experience.
 
----
+
+
 
 # ReadMe - Installation Guide
 
