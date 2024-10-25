@@ -33,7 +33,7 @@ Author: Luca
 6. **Restart** your server to apply the changes.
 
 #### Preview:
-***SOON***
+https://youtu.be/qQh12iw_lZw 
 
 #### Support:
 If you experience any issues with the installation or need further assistance, please contact us at https://www.luca-info.com.
